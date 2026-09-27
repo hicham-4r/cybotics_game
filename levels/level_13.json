@@ -1,0 +1,38 @@
+{
+  "level": 13,
+  "name": "False Route",
+
+  "target_time": 34.0,
+  "completion_bonus": 1850,
+  "time_multiplier": 210,
+
+  "player_start": [
+    150,
+    360
+  ],
+
+  "goal": [
+    1070,
+    160,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      340,
+      240,
+      500,
+      260
+    ],
+
+    [
+      840,
+      124,
+      24,
+      260
+    ]
+  ],
+
+  "hazards": []
+}

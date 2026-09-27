@@ -1,0 +1,37 @@
+{
+  "level": 1,
+  "name": "Basic Gravity",
+
+  "target_time": 14.0,
+  "completion_bonus": 500,
+  "time_multiplier": 100,
+
+  "player_start": [
+    150,
+    550
+  ],
+
+  "goal": [
+    1060,
+    555,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      470,
+      350,
+      24,
+      276
+    ],
+    [
+      470,
+      326,
+      280,
+      24
+    ]
+  ],
+
+  "hazards": []
+}

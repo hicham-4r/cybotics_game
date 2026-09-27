@@ -1,0 +1,45 @@
+{
+  "level": 8,
+  "name": "Multiple Routes",
+
+  "target_time": 30.0,
+  "completion_bonus": 1250,
+  "time_multiplier": 170,
+
+  "player_start": [
+    150,
+    360
+  ],
+
+  "goal": [
+    1070,
+    160,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      430,
+      250,
+      420,
+      250
+    ]
+  ],
+
+  "hazards": [
+    [
+      500,
+      226,
+      110,
+      24
+    ],
+
+    [
+      690,
+      124,
+      100,
+      24
+    ]
+  ]
+}

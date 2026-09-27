@@ -1,0 +1,43 @@
+{
+  "level": 3,
+  "name": "Vertical Navigation",
+
+  "target_time": 26.0,
+  "completion_bonus": 700,
+  "time_multiplier": 120,
+
+  "player_start": [
+    150,
+    550
+  ],
+
+  "goal": [
+    1060,
+    160,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      350,
+      270,
+      24,
+      356
+    ],
+    [
+      640,
+      124,
+      24,
+      376
+    ],
+    [
+      930,
+      270,
+      24,
+      356
+    ]
+  ],
+
+  "hazards": []
+}

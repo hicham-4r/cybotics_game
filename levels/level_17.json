@@ -1,0 +1,66 @@
+{
+  "level": 17,
+  "name": "Risk Reward",
+
+  "target_time": 30.0,
+  "completion_bonus": 2350,
+  "time_multiplier": 250,
+
+  "player_start": [
+    150,
+    360
+  ],
+
+  "goal": [
+    1080,
+    170,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      420,
+      280,
+      480,
+      220
+    ]
+  ],
+
+  "hazards": [
+    [
+      480,
+      124,
+      100,
+      24
+    ],
+
+    [
+      780,
+      124,
+      90,
+      24
+    ]
+  ],
+
+  "moving_hazards": [
+    {
+      "start": [
+        680,
+        165
+      ],
+
+      "end": [
+        680,
+        225
+      ],
+
+      "size": [
+        36,
+        36
+      ],
+
+      "speed": 170
+    }
+  ]
+}

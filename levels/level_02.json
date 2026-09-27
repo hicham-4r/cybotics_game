@@ -1,0 +1,37 @@
+{
+  "level": 2,
+  "name": "Direction",
+
+  "target_time": 18.0,
+  "completion_bonus": 600,
+  "time_multiplier": 110,
+
+  "player_start": [
+    150,
+    550
+  ],
+
+  "goal": [
+    1040,
+    155,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      104,
+      330,
+      760,
+      24
+    ],
+    [
+      864,
+      330,
+      24,
+      170
+    ]
+  ],
+
+  "hazards": []
+}

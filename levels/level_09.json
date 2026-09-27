@@ -1,0 +1,59 @@
+{
+  "level": 9,
+  "name": "Moving Hazard",
+
+  "target_time": 24.0,
+  "completion_bonus": 1350,
+  "time_multiplier": 180,
+
+  "player_start": [
+    150,
+    360
+  ],
+
+  "goal": [
+    1060,
+    360,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      260,
+      124,
+      700,
+      150
+    ],
+
+    [
+      260,
+      476,
+      700,
+      150
+    ]
+  ],
+
+  "hazards": [],
+
+  "moving_hazards": [
+    {
+      "start": [
+        610,
+        286
+      ],
+
+      "end": [
+        610,
+        422
+      ],
+
+      "size": [
+        38,
+        42
+      ],
+
+      "speed": 150
+    }
+  ]
+}

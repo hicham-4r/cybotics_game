@@ -1,0 +1,37 @@
+{
+  "level": 4,
+  "name": "Horizontal Navigation",
+
+  "target_time": 24.0,
+  "completion_bonus": 800,
+  "time_multiplier": 130,
+
+  "player_start": [
+    150,
+    550
+  ],
+
+  "goal": [
+    1050,
+    160,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      104,
+      450,
+      746,
+      24
+    ],
+    [
+      350,
+      300,
+      826,
+      24
+    ]
+  ],
+
+  "hazards": []
+}

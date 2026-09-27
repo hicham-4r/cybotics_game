@@ -1,0 +1,44 @@
+{
+  "level": 5,
+  "name": "Timing",
+
+  "target_time": 22.0,
+  "completion_bonus": 900,
+  "time_multiplier": 140,
+
+  "player_start": [
+    150,
+    550
+  ],
+
+  "goal": [
+    1060,
+    550,
+    46,
+    46
+  ],
+
+  "platforms": [
+    [
+      430,
+      124,
+      24,
+      310
+    ],
+    [
+      700,
+      124,
+      24,
+      310
+    ]
+  ],
+
+  "hazards": [
+    [
+      500,
+      580,
+      150,
+      30
+    ]
+  ]
+}
